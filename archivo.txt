@@ -1,0 +1,25 @@
+este es un documento
+de prueba
+prueba
+prueba
+hermosa
+prueba
+la
+la
+la
+<end-document>
+hola como estan todos
+vengo a saludarlos
+desde un mundo
+muy lejano
+<end-document>
+napoleon y sus amigos
+van de paseo
+paseo
+napoleon
+napoleon
+napoleon
+napoleon
+napoleon
+napoleon
+<end-document>

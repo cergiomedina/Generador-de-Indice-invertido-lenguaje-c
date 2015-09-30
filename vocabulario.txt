@@ -1,0 +1,52 @@
+<<<<<<< HEAD
+este, 0, 1
+es, 1, 1
+un, 2, 2
+documento, 3, 1
+de, 4, 2
+prueba, 5, 1
+hermosa, 6, 1
+la, 7, 1
+hola, 8, 1
+como, 9, 1
+=======
+esteP”w·ÿÿÿÿ, 0, 1
+esw·P”w·ÿÿÿÿ, 1, 1
+unw·P”w·, 2, 1
+documento, 3, 1
+dew·P”w·, 4, 1
+pruebaw·, 5, 1
+hermosa·, 6, 1
+law·P”w·, 7, 1
+holax”w·, 8, 1
+comoP”w·, 9, 1
+>>>>>>> e3e531e9b1e04897ce79406c92d417c414fd3c66
+estan, 10, 1
+todos, 11, 1
+vengo, 12, 1
+a, 13, 1
+saludarlos, 14, 1
+desde, 15, 1
+<<<<<<< HEAD
+mundo, 16, 1
+muy, 17, 1
+lejano, 18, 1
+napoleon, 19, 1
+y, 20, 1
+sus, 21, 1
+amigos, 22, 1
+van, 23, 1
+paseo, 24, 1
+=======
+un, 16, 1
+mundo, 17, 1
+muy, 18, 1
+lejano, 19, 1
+napoleon, 20, 1
+y, 21, 1
+sus, 22, 1
+amigos, 23, 1
+van, 24, 1
+de, 25, 1
+paseo, 26, 1
+>>>>>>> e3e531e9b1e04897ce79406c92d417c414fd3c66
